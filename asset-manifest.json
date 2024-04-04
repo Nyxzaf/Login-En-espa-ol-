@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Login-En-espa-ol-/static/css/main.f05291ca.css",
+    "main.js": "/Login-En-espa-ol-/static/js/main.ee747393.js",
+    "static/js/453.64512fd7.chunk.js": "/Login-En-espa-ol-/static/js/453.64512fd7.chunk.js",
+    "static/media/fondo-de-pantalla-paisaje.jpg": "/Login-En-espa-ol-/static/media/fondo-de-pantalla-paisaje.d2e391c6276d429c4ced.jpg",
+    "index.html": "/Login-En-espa-ol-/index.html",
+    "main.f05291ca.css.map": "/Login-En-espa-ol-/static/css/main.f05291ca.css.map",
+    "main.ee747393.js.map": "/Login-En-espa-ol-/static/js/main.ee747393.js.map",
+    "453.64512fd7.chunk.js.map": "/Login-En-espa-ol-/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05291ca.css",
+    "static/js/main.ee747393.js"
+  ]
+}
