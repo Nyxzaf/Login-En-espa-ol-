@@ -9,7 +9,7 @@ const LoginForm = () => {
       <form action="">
         <div className='title'>
           <h1>
-            Inicia Sesión <BsArrowUpRightSquareFill className='icon' />
+            Iniciar Sesión <BsArrowUpRightSquareFill className='icon' />
           </h1>
         </div>
         <div className="input-box">
